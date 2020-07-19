@@ -1,1 +1,2 @@
-My first file
+quick brown fox
+\n my first file
